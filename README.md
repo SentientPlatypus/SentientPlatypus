@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Assorted Webscraping Projects (mostly Wikipedia)**
 
-- ✔️ I recently completed [**Amoris**](https://github.com/Sben05/Snake)
+- ✔️ I recently completed [**Amoris**](http://sentientplatypus.pythonanywhere.com/products)
 
 - 🌱 I’m currently learning **Python Advanced Computer Visualisation**
 
