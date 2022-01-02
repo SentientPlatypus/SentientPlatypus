@@ -30,4 +30,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sentientplatypus&show_icons=true&locale=en&layout=compact" alt="sben05" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sentientplatypus05&show_icons=true&locale=en" alt="sben05" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sentientplatypus&show_icons=true&locale=en" alt="sben05" /></p>
