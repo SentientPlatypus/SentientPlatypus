@@ -35,6 +35,8 @@
 <a href="https://www.python.org" target="_blank"> <img src="https://static.spigotmc.org/img/spigot-og.png" alt="spigot" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank"> <img src="https://i.imgur.com/RPrw70n.jpg" alt="openai" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank"> <img src="https://pipedream.com/s.v0/app_mWnhBo/logo/orig" alt="openai" width="40" height="40"/> </a>
+<a href="https://www.python.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/OpenCV_Logo_with_text.png/487px-OpenCV_Logo_with_text.png" alt="opencv" width="40" height="40"/> </a>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sentientplatypus&show_icons=true&locale=en&layout=compact" alt="sentientplatypus" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sentientplatypus&show_icons=true&locale=en" alt="sentientplatypus" /></p>
