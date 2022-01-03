@@ -11,7 +11,7 @@
 
 - ✔️ I recently completed [**Amoris**](http://sentientplatypus.pythonanywhere.com/products)
 
-- 🌱 I’m currently learning **Python Advanced Computer Visualisation**
+- 🌱 I’m currently learning **Python Advanced Computer Visions**
 
 - 👯 I’m looking to collaborate on [**Calcom**](https://www.pycalc.com/calcom)
 
