@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sben05" alt="sben05" /></a> </p>
 
-- 🔭 I’m currently working on **Assorted Webscraping Projects (mostly Wikipedia)**
+- 🔭 I’m currently working on **Robot Visions**
 
 - ✔️ I recently completed [**Amoris**](http://sentientplatypus.pythonanywhere.com/products)
 
@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available [here](http://sentientplatypus.pythonanywhere.com)
 
-- 💬 Ask me about **GPT-3**
+- 💬 Ask me about **Open-cv and Visions**
 
 - 📫 How to reach me **geneustace.wicaksono@icsd.k12.ny.us**
 
