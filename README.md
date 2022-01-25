@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **geneustace.wicaksono@icsd.k12.ny.us**
 
-- ⚡ quote **I hate it when I have a conversation with people, and they dont follow the script**
+- ⚡ quote **The only thing we truly own in this world is the body we shape each day**
 
 
 
