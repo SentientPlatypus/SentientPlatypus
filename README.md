@@ -38,6 +38,7 @@
 <a href="https://www.python.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/OpenCV_Logo_with_text.png/487px-OpenCV_Logo_with_text.png" alt="opencv" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" alt="opencv" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank"> <img src="https://i.pinimg.com/originals/f1/bc/3a/f1bc3a9ed4f836e92a33fc6b130db188.gif" alt="opencv" width="40" height="40"/> </a>
+<a href="https://www.python.org" target="_blank"> <img src="https://iconarchive.com/download/i98223/dakirby309/simply-styled/Blender.ico" alt="blender" width="40" height="40"/> </a>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sentientplatypus&show_icons=true&locale=en&layout=compact" alt="sentientplatypus" /></p>
 
