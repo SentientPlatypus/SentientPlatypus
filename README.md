@@ -9,15 +9,15 @@
 
 - 🔭 I’m currently working on **Robot Visions + Kotlin app development**
 
-- ✔️ I recently completed [**Amoris**](http://sentientplatypus.pythonanywhere.com/products)
+- ✔️ I recently completed [**BozuBot**](http://sentientplatypus.pythonanywhere.com/products)
 
-- 🌱 I’m currently learning **Python Advanced Computer Visions**
+- 🌱 I’m currently learning **Stock analysis**
 
 - 👯 I’m looking to collaborate on [**Calcom**](https://www.pycalc.com/calcom)
 
 - 👨‍💻 All of my projects are available [here](http://sentientplatypus.pythonanywhere.com)
 
-- 💬 Ask me about **Open-cv and Visions**
+- 💬 Ask me about **Robot Visions and nextcord**
 
 - 📫 How to reach me **geneustace.wicaksono@icsd.k12.ny.us**
 
@@ -39,6 +39,7 @@
 <a href="https://www.python.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" alt="opencv" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank"> <img src="https://i.pinimg.com/originals/f1/bc/3a/f1bc3a9ed4f836e92a33fc6b130db188.gif" alt="opencv" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank"> <img src="https://iconarchive.com/download/i98223/dakirby309/simply-styled/Blender.ico" alt="blender" width="40" height="40"/> </a>
+<a href="https://www.python.org" target="_blank"> <img src="https://skeptric.com/images/pandas.png" alt="pandas" width="40" height="40"/> </a>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sentientplatypus&show_icons=true&locale=en&layout=compact" alt="sentientplatypus" /></p>
 
