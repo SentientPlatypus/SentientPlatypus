@@ -11,7 +11,7 @@
 
 - ✔️ I recently completed [**BozuBot**](http://sentientplatypus.pythonanywhere.com/products)
 
-- 🌱 I’m currently learning **Stock analysis**
+- 🌱 I’m currently learning **Recurrent Neural Networks**
 
 - 👯 I’m looking to collaborate on [**Calcom**](https://www.pycalc.com/calcom)
 
