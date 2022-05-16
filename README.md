@@ -15,7 +15,7 @@
 
 - 👯 I’m looking to collaborate on [**Calcom**](https://www.pycalc.com/calcom)
 
-- 👨‍💻 All of my projects are available [here](http://sentientplatypus.pythonanywhere.com)
+- 👨‍💻 All of my projects are available [here](https://genew.sentientplatypu.repl.co)
 
 - 💬 Ask me about **Robot Visions and nextcord**
 
