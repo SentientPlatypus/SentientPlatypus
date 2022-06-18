@@ -26,7 +26,7 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
-<a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<a href="https://doc.rust-lang.org/book" target="_blank"> <img src="https://www.nicepng.com/png/full/34-348422_community-spotlight-rust-programming-language.png" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 
 <a href="https://www.python.org" target="_blank"> <img src="https://freeiconshop.com/wp-content/uploads/edd/html-flat.png" alt="html" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank"> <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_960_720.png" alt="css" width="40" height="40"/> </a>
@@ -36,7 +36,7 @@
 <a href="https://www.python.org" target="_blank"> <img src="https://i.imgur.com/RPrw70n.jpg" alt="openai" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank"> <img src="https://pipedream.com/s.v0/app_mWnhBo/logo/orig" alt="openai" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/OpenCV_Logo_with_text.png/487px-OpenCV_Logo_with_text.png" alt="opencv" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" alt="opencv" width="40" height="40"/> </a>
+
 <a href="https://www.python.org" target="_blank"> <img src="https://i.pinimg.com/originals/f1/bc/3a/f1bc3a9ed4f836e92a33fc6b130db188.gif" alt="opencv" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank"> <img src="https://iconarchive.com/download/i98223/dakirby309/simply-styled/Blender.ico" alt="blender" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank"> <img src="https://skeptric.com/images/pandas.png" alt="pandas" width="40" height="40"/> </a>
