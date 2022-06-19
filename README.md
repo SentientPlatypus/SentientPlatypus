@@ -32,13 +32,6 @@
 <a href="https://www.python.org" target="_blank"> <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_960_720.png" alt="css" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/480px-JavaScript-logo.png" alt="js" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank"> <img src="https://www.servernoobs.com/wp-content/uploads/2016/01/mongodb-logo-1.png" alt="c#" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank"> <img src="https://iconape.com/wp-content/png_logo_vector/c.png" alt="c#" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank"> <img src="https://static.spigotmc.org/img/spigot-og.png" alt="spigot" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank"> <img src="https://i.imgur.com/RPrw70n.jpg" alt="openai" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank"> <img src="https://pipedream.com/s.v0/app_mWnhBo/logo/orig" alt="openai" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank"> <img src="https://i.pinimg.com/originals/f1/bc/3a/f1bc3a9ed4f836e92a33fc6b130db188.gif" alt="opencv" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank"> <img src="https://iconarchive.com/download/i98223/dakirby309/simply-styled/Blender.ico" alt="blender" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank"> <img src="https://pandas.pydata.org/static/img/favicon_white.ico" alt="pandas" width="40" height="40"/> </a>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sentientplatypus&show_icons=true&locale=en&layout=compact" alt="sentientplatypus" /></p>
 
