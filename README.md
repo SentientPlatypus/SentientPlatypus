@@ -30,8 +30,8 @@
 
 <a href="https://www.python.org" target="_blank"> <img src="https://freeiconshop.com/wp-content/uploads/edd/html-flat.png" alt="html" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank"> <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_960_720.png" alt="css" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/480px-JavaScript-logo.png" alt="js" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank"> <img src="https://www.servernoobs.com/wp-content/uploads/2016/01/mongodb-logo-1.png" alt="c#" width="40" height="40"/> </a>
+<a href="https://www.javascript.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/480px-JavaScript-logo.png" alt="js" width="40" height="40"/> </a>
+<a href="https://www.mongodb.com" target="_blank"> <img src="https://www.servernoobs.com/wp-content/uploads/2016/01/mongodb-logo-1.png" alt="c#" width="40" height="40"/> </a>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sentientplatypus&show_icons=true&locale=en&layout=compact" alt="sentientplatypus" /></p>
 
