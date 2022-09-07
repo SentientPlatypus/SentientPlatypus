@@ -3,23 +3,23 @@
 <h1 align="center">Hi 👋, I'm SentientPlatypus</h1>
 <h3 align="center">A 15 Year Old Full Stack Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sben05&label=Profile%20views&color=0e75b6&style=flat" alt="sben05" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sben05&label=Profile%20views&color=0e75b6&style=flat" alt="GeneW" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sben05" alt="sben05" /></a> </p>
 
 - 🔭 I’m currently working on **Stock analysis + TeachX**
 
-- ✔️ I recently completed [**BozuBot**](http://sentientplatypus.pythonanywhere.com/products)
+- ✔️ I recently completed [**Foresight**](https://foresight.sentientplatypu.repl.co)
 
 - 🌱 I’m currently learning **Recurrent Neural Networks**
 
-- 👯 I’m looking to collaborate on [**Calcom**](https://www.pycalc.com/calcom)
+- 👯 I’m looking to collaborate on [**Some robotics projects please.**](https://emprise.cs.cornell.edu)
 
-- 👨‍💻 All of my projects are available [here](https://genew.sentientplatypu.repl.co)
+- 👨‍💻 All of my projects are available [here](https://genewica.herokuapp.com)
 
 - 💬 Ask me about **Robot Visions and nextcord**
 
-- 📫 How to reach me **geneustace.wicaksono@icsd.k12.ny.us**
+- 📫 How to reach me **geneustace.wicaksono@icsd.k12.ny.us** or my website lol.
 
 - ⚡ quote **The only thing we truly own in this world is the body we shape each day**
 
