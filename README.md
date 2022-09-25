@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sben05" alt="sben05" /></a> </p>
 
-- 🔭 I’m currently working on **Stock analysis + TeachX**
+- 🔭 I’m currently working on **Writing neural networks from scratch**
 
 - ✔️ I recently completed [**Foresight**](https://foresight.sentientplatypu.repl.co)
 
@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **geneustace.wicaksono@icsd.k12.ny.us** or my website lol.
 
-- ⚡ quote **Be the big dog** -Mukund Gaur, 2022
+- ⚡ quote **Be the big dog.** -Mukund Gaur, 2022
 
 
 
