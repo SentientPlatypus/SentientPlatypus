@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sben05" alt="sben05" /></a> </p>
 
-- 🔭 I’m currently working on **Writing neural networks from scratch**
+- 🔭 I’m currently working on [**handwritten digit recognition**]("https://github.com/SentientPlatypus/digit-recognition-dnn")
 
 - ✔️ I recently completed [**Foresight**](https://foresight.sentientplatypu.repl.co)
 
-- 🌱 I’m currently learning **Recurrent Neural Networks**
+- 🌱 I’m currently learning **Neural Networks**
 
 - 👯 I’m looking to collaborate on [**Some robotics projects please.**](https://emprise.cs.cornell.edu)
 
