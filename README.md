@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Neural Networks**
 
-- 👯 I’m looking to collaborate on [**Some robotics projects please.**](https://emprise.cs.cornell.edu)
+- 👯 I’m looking to collaborate on **RL CAR + MYSTERY ML PROJECT**
 
 - 👨‍💻 All of my projects are available [here](https://genewica.herokuapp.com)
 
