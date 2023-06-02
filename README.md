@@ -1,6 +1,6 @@
-### Hi there 👋
+### welcome
 
-<h1 align="center">Hi 👋, I'm SentientPlatypus</h1>
+<h1 align="center">I'm SentientPlatypus</h1>
 <h3 align="center">A 16 Year Old Full Stack Developer</h3>
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=sben05&label=Profile%20views&color=0e75b6&style=flat" alt="GeneW" /></p>
@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **geneustace.wicaksono@icsd.k12.ny.us** or my website lol.
 
-- ⚡ quote **Be the big dog.** -Mukund Gaur, 2022
+- **Be kind**
 
 
 
