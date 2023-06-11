@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Neural Networks**
 
-- 👯 I’m looking to collaborate on **RL CAR + MYSTERY ML PROJECT**
+- 👯 I’m looking to collaborate on **RL CAR + BelugaSturgeon Financial**
 
 - 👨‍💻 All of my projects are available [here](https://genewica.herokuapp.com)
 
