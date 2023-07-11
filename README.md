@@ -7,22 +7,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sben05" alt="sben05" /></a> </p>
 
-- 🔭 I’m currently working on [**handwritten digit recognition**]("https://github.com/SentientPlatypus/digit-recognition-dnn")
-
-- ✔️ I recently completed [**Foresight**](https://foresight.sentientplatypu.repl.co)
-
-- 🌱 I’m currently learning **Neural Networks**
-
-- 👯 I’m looking to collaborate on **RL CAR + BelugaSturgeon Financial**
-
-- 👨‍💻 All of my projects are available [here](https://genewica.herokuapp.com)
-
-- 💬 Ask me about **Robot Visions and nextcord**
-
-- 📫 How to reach me **geneustace.wicaksono@icsd.k12.ny.us** or my website lol.
-
-- **Be kind**
-
 
 [WEBSITE](https://genewica.herokuapp.com)
 > I have no enemies
