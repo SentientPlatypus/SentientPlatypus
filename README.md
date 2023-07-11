@@ -1,11 +1,27 @@
-### Hi there 👋
+### welcome
 
-<h1 align="center">SentientPlatypus</h1>
+<h1 align="center">I'm SentientPlatypus</h1>
 <h3 align="center">A 16 Year Old Full Stack Developer</h3>
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=sben05&label=Profile%20views&color=0e75b6&style=flat" alt="GeneW" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sben05" alt="genew" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sben05" alt="sben05" /></a> </p>
+
+- 🔭 I’m currently working on [**handwritten digit recognition**]("https://github.com/SentientPlatypus/digit-recognition-dnn")
+
+- ✔️ I recently completed [**Foresight**](https://foresight.sentientplatypu.repl.co)
+
+- 🌱 I’m currently learning **Neural Networks**
+
+- 👯 I’m looking to collaborate on **RL CAR + BelugaSturgeon Financial**
+
+- 👨‍💻 All of my projects are available [here](https://genewica.herokuapp.com)
+
+- 💬 Ask me about **Robot Visions and nextcord**
+
+- 📫 How to reach me **geneustace.wicaksono@icsd.k12.ny.us** or my website lol.
+
+- **Be kind**
 
 
 [WEBSITE](https://genewica.herokuapp.com)
