@@ -12,7 +12,10 @@
 
 <h3 align="left">Languages:</h3>
 <a href="https://doc.rust-lang.org/book" target="_blank">
-    <img src="https://www.nicepng.com/png/full/34-348422_community-spotlight-rust-programming-language.png" alt="cplusplus" width="40" height="40"/> 
+    <img src="https://www.nicepng.com/png/full/34-348422_community-spotlight-rust-programming-language.png" alt="rust" width="40" height="40"/> 
+</a>
+<a href="https://matlab.com" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/667px-Matlab_Logo.png" alt="matlab" width="40" height="40"/> 
 </a>
 <a href="https://www.java.com" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
