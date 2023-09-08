@@ -23,6 +23,10 @@
 <a href="https://www.python.org" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 </a>
+</a> 
+<a href="https://r-project.org" target="_blank"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1200px-R_logo.svg.png" alt="R" width="40" height="40"/>
+</a>
 <a href="https://www.html.com" target="_blank"> 
     <img src="https://freeiconshop.com/wp-content/uploads/edd/html-flat.png" alt="html" width="40" height="40"/>
 </a>
