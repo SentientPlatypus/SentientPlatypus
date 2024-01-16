@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sben05" alt="sben05" /></a> </p>
 
 <button style="display: block; width: 100%; background-color: blue; color: white; font-family: 'Roboto Mono', monospace; text-align: center; padding: 10px; border-radius: 10px;">[WEBSITE](https://genewica.herokuapp.com)</button>
-> I have no enemies
+> Be kind
 
 <h3 align="left">Languages:</h3>
 <a href="https://doc.rust-lang.org/book" target="_blank">
