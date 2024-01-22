@@ -1,4 +1,4 @@
-### welcome
+
 
 <h1 align="center">I'm SentientPlatypus</h1>
 <h3 align="center">A 17 Year Old Full Stack Developer</h3>
