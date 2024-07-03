@@ -5,10 +5,9 @@
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=sben05&label=Profile%20views&color=0e75b6&style=flat" alt="GeneW" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sben05" alt="sben05" /></a> </p>
 
 <button style="display: block; width: 100%; background-color: blue; color: white; font-family: 'Roboto Mono', monospace; text-align: center; padding: 10px; border-radius: 10px;">[WEBSITE](https://genewica.herokuapp.com)</button>
-> Be kind
+Be kind
 
 <h3 align="left">Languages:</h3>
 <a href="https://doc.rust-lang.org/book" target="_blank">
@@ -45,8 +44,4 @@
 
 <p>
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sentientplatypus&langs_count=8&show_icons=true&locale=en&layout=compact&theme=radical" alt="sentientplatypus" />
-</p>
-
-<p>
-&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sentientplatypus&show_icons=true&locale=en&theme=radical" alt="sentientplatypus" />
 </p>
